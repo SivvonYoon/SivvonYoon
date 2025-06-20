@@ -1,8 +1,9 @@
-# Hi there 👋
+# <center>Hi there 👋</center>
 
-## I'm interested in ... :heart_eyes:
+## <center>I'm interested in ... :heart_eyes:</center>
+<center>Unmanned Aerial Vehicle, Exploration, SLAM, Active SLAM, Obstacle avoidance, Coverage Path Planning</center>
 
-### Unmanned Aerial Vehicle, Exploration, SLAM, Active SLAM, Obstacle avoidance, Coverage Path Planning
+
 
 <!--
 **SivvonYoon/SivvonYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
