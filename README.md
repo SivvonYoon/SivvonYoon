@@ -6,7 +6,7 @@ Unmanned Aerial Vehicle, Exploration, SLAM, Active SLAM, <br> Obstacle avoidance
 
 # Skills :sunglasses:
 
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=&logoColor=white">
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
