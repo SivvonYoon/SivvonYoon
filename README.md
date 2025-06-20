@@ -1,12 +1,15 @@
 <div align="center">
 
-## I'm interested in ... :heart_eyes:
-Unmanned Aerial Vehicle, Exploration, SLAM, Active SLAM, Obstacle avoidance, Coverage Path Planning
+# I'm interested in ... :heart_eyes:
+## Unmanned Aerial Vehicle, Exploration, SLAM, Active SLAM, Obstacle avoidance, Coverage Path Planning
 <br>
-## Skills :sunglasses:
+
+# Skills :sunglasses:
+
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
 <br>
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
