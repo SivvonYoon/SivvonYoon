@@ -1,8 +1,9 @@
-# <center>Hi there 👋</center>
+<div align="center">
+# Hi there 👋
 
-## <center>I'm interested in ... :heart_eyes:</center>
-<center>Unmanned Aerial Vehicle, Exploration, SLAM, Active SLAM, Obstacle avoidance, Coverage Path Planning</center>
-
+## I'm interested in ... :heart_eyes:
+Unmanned Aerial Vehicle, Exploration, SLAM, Active SLAM, Obstacle avoidance, Coverage Path Planning
+</div>
 
 
 <!--
