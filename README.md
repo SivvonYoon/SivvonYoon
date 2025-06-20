@@ -1,7 +1,7 @@
 <div align="center">
 
 # I'm interested in ... :heart_eyes:
-Unmanned Aerial Vehicle, Exploration, SLAM, Visual SLAM, Active SLAM, <br> Robot Vision, Obstacle avoidance, Coverage Path Planning
+Unmanned Vehicle, Exploration, SLAM, Visual SLAM, Active SLAM, <br> Robot Vision, Obstacle avoidance, Coverage Path Planning
 <br>
 
 # Skills :sunglasses:
