@@ -34,7 +34,7 @@ Unmanned Ground Vehicle, SLAM, Robot Vision, Visual SLAM, <br> Exploration, Acti
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SivvonYoon)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SivvonYoon)](https://git.io/streak-stats&theme=onedark)
 
 <br>
 
