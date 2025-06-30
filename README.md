@@ -37,7 +37,8 @@ Unmanned Ground Vehicle, SLAM, Robot Vision, Visual SLAM, <br> Exploration, Acti
 <img src="https://streak-stats.demolab.com?user=SivvonYoon&theme=rose-pine&date_format=%5BY.%5Dn.j&card_width=400&border_radius=10"/>
 
 <br>
+<br>
 
-![SivvonYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivvonYoon&count_private=true&show_icons=true&theme=onedark&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivvonYoon&theme=onedark&hide=shell)
+![SivvonYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivvonYoon&count_private=true&show_icons=true&theme=dracula&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivvonYoon&theme=dracula&hide=shell)
 </div>
